@@ -3,7 +3,7 @@ shaoyi7161/shaoyi7161 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 bukn232,ui62,672y,3fdd,seff34,yuty45
-wugong,yu26,2eedd
+wugong,yu26,2eedd,shuy672
 ditie,jih67,3efdd,uijhw62.sjksy82
 yuzhongq,892yyw.hjsy221
 daijiaodk;78uhy;shuy72
